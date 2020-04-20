@@ -4,6 +4,9 @@
   Desafio 03: Conceitos do ReactJS
 </h3>
 
+![GoStack11 Desafio03]([link-to-image](https://github.com/andrelinos/gostack-conceitos-reactjs/blob/master/desafio03gostack11.png))
+
+
 ### Funcionalidades da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
