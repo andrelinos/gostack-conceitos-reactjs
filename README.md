@@ -4,7 +4,7 @@
   Desafio 03: Conceitos do ReactJS
 </h3>
 
-![GoStack11 Desafio03]([link-to-image](https://github.com/andrelinos/gostack-conceitos-reactjs/blob/master/desafio03gostack11.png))
+<img alt="GoStack" src="https://github.com/andrelinos/gostack-conceitos-reactjs/blob/master/desafio03gostack11.png" />
 
 
 ### Funcionalidades da aplicação
