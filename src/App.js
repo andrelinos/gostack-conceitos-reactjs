@@ -67,7 +67,11 @@ function App() {
         {repositories.map(repository => (
           <li key={repository.id}>
             <a href={repository.url}> {repository.title}</a>
-            <span>{repository.techs}</span>
+            <span>{repository.techs.map((tech) => (
+              <li key={repository.id}>
+              {tech}
+              </li>
+              ))}</span>
             <button
               type="button"
               onClick={() => handleRemoveRepository(repository.id)}

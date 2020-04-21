@@ -67,9 +67,10 @@ form button {
 div ul {
   padding: 20px;
   background: #dfe6e9;
+  list-style: none;
 }
 
-div li {
+div ul > li {
   display: flex;
   align-items: center;
   font-size: 15px;
@@ -95,14 +96,6 @@ div li + li {
 div li span {
   font-size: 12px;
   color: rgb(116, 116, 116);
-}
-
-div li span::before {
-  content: "{ ";
-}
-
-div li span::after {
-  content: " }";
 }
 
 div li button {
